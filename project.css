@@ -584,6 +584,17 @@ h2 {
   color:white;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+  background: #000;
+}
+
+::-webkit-scrollbar-thumb{
+  background: -webkit-linear-gradient(transparent,#48b1bf);
+  background: linear-gradient(transparent,#48b1bf);
+  border-radius: 80px;
+}
+
 /*FOOTER*/
 
 .copyright-text.text-center{
