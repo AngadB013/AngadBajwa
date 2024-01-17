@@ -583,3 +583,11 @@ h2 {
 .specialtext {
   color:white;
 }
+
+/*FOOTER*/
+
+.copyright-text.text-center{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
