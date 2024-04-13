@@ -499,7 +499,7 @@ h2 {
 }
 
 .projects .pro11 .card1 {
-  background: #0c0c0d;
+  /*background: #0c0c0d;*/
   border-radius: 30px;
   padding: 3px;
   text-align: center;
@@ -581,7 +581,7 @@ h2 {
 }
 
 .specialtext {
-  color:white;
+  color:#ff4747;
 }
 
 ::-webkit-scrollbar {
