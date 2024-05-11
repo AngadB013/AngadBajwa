@@ -419,6 +419,10 @@ h2 {
     .navbar-expand-sm .navbar-nav .nav-link {
       padding: 3px 20px;
     }
+
+    .specialtext {
+      margin-bottom:2500px;
+  }
   }
 
   @media (max-width: 580px) {
@@ -450,6 +454,11 @@ h2 {
     .pro11{
       width:100%;
     }
+
+    .specialtext {
+      margin-bottom:2500px;
+  }
+
   }
 
   @media (max-width: 320px) {
@@ -477,6 +486,9 @@ h2 {
       display: inline-block;
       vertical-align: top;
     }
+    .specialtext {
+      margin-bottom:2500px;
+  }
   }
   
 
